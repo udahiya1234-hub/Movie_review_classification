@@ -1,0 +1,5 @@
+{
+  "name": "Movie Review Classification Model",
+  "description": "A dashboard presenting key insights from the validation steps of a machine learning model, demonstrating its robustness and high accuracy.",
+  "requestFramePermissions": []
+}
